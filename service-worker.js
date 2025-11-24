@@ -17,6 +17,8 @@ self.addEventListener('install', (event) => {
           '/taego.webp',
           '/vikendi.html',
           '/vikendi.jpg',
+          '/rondo.html',
+          '/rondo.jpg',
         ]);
       })
     );
